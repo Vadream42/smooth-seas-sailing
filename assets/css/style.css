@@ -418,6 +418,8 @@ a.index-row:hover { background: rgba(212, 212, 212, 0.05); }
 
 .index-row .name { font-size: 20px; color: var(--text); }
 .index-row .name .when { color: var(--text-muted); font-size: 15px; margin-left: 10px; }
+.index-row .date { font-size: 16px; color: var(--text-muted); flex-shrink: 0; }
+
 .index-row .num { font-size: 15px; color: var(--text-2); flex-shrink: 0; }
 .index-row .num.muted { color: var(--text-muted); }
 
